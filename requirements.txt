@@ -1,12 +1,4 @@
 ipinfo
-python-whois
 pyOpenSSL
-logging
-os
-ipinfo
-socket
-ssl
-datetime
 dnspython
 requests
-json
